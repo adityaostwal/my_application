@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "812038284241",
+    "project_id": "my-application-drraft",
+    "storage_bucket": "my-application-drraft.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812038284241:android:be23d7529f85e21834b6f0",
+        "android_client_info": {
+          "package_name": "com.example.my_application_drraft"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "812038284241-bhcq5ts624u6pjp226v1jraumu1iug95.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBS7W0I7qyNu-BxwQvkpUk6P6W9qgyWzeo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "812038284241-bhcq5ts624u6pjp226v1jraumu1iug95.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
